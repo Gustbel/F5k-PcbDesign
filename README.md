@@ -3,7 +3,7 @@
 ![alt tex](images/icon_bitbucket.png)
 
 ## Hoja de Ruta:
-1. Creación y configuración del Programa y creación del Repositorio ----  *LISTO  - Viernes 13/05 (1 día)*
+1. Creación y configuración del Programa y creación del Repositorio ----  *LISTO  - Miércoles 13/05 (1 día)*
 2. Carga de los Componentes 
 3. Carga del Circuito completo en el archivo Schematic 
 4. Configuración del Archivo PCB (Capas, Tamaño de pistas, Clearances, etc).
