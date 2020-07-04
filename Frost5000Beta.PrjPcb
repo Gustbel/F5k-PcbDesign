@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YRKKRBOA
 
 [Document4]
 DocumentPath=LibraryUsed\Frost5000Beta_LIB_Conectores_PCB.PcbLib
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KBLSIPIR
 
 [Document7]
 DocumentPath=LibraryUsed\Frost5000Beta_LIB_Integrados_Sch.SchLib
@@ -206,10 +206,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKJWVFOF
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Frost5000Beta\Design Rule Check - Frost5000Beta_PCB.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
