@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\BoxSynergy\Frost5000Beta\Frost5000Beta_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=frost5000beta_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=frost5000beta_pcb-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=frost5000beta_pcb-rectholes.txt|DrillLayers=gtl,gbl

@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUFAUVBQ
 
 [Document6]
 DocumentPath=LibraryUsed\Frost5000Beta_LIB_Otros_PCB.PcbLib
@@ -223,10 +223,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Frost5000Beta\Export STEP\Frost5000Beta_PCB.step
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
