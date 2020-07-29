@@ -2,17 +2,6 @@
 FileName = Frost5000Beta_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : Frost5000Beta_PCB.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D134
-*************************************************************
-
-*************************************************************
 Generating : Bottom Overlay
       File : Frost5000Beta_PCB.GBO
 
@@ -20,12 +9,33 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D11
+    D10
     D12
-    D15
+    D13
     D21
     D22
     D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Frost5000Beta_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D53
+    D55
+    D56
+    D128
+    D129
+    D130
 *************************************************************
 
 *************************************************************
@@ -161,24 +171,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Frost5000Beta_PCB.GBP
+Generating : Board Outline
+      File : Frost5000Beta_PCB.GM2
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D52
-    D53
-    D55
-    D56
-    D127
-    D128
-    D129
+    D135
 *************************************************************
 
 *************************************************************
@@ -191,8 +191,8 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D13
-    D15
+    D10
+    D14
     D34
     D35
     D36
@@ -243,6 +243,7 @@ Used DCodes :
     D124
     D125
     D126
+    D127
 *************************************************************
 
 *************************************************************
@@ -276,9 +277,9 @@ Used DCodes :
     D101
     D102
     D103
-    D131
     D132
     D133
+    D134
 *************************************************************
 
 *************************************************************
@@ -291,8 +292,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D13
-    D15
+    D10
+    D14
     D52
     D53
     D55
@@ -321,5 +322,6 @@ Used DCodes :
     D128
     D129
     D130
+    D131
 *************************************************************
 

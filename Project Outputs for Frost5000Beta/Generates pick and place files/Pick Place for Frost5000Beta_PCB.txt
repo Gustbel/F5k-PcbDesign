@@ -4,13 +4,14 @@ C:\BoxSynergy\Frost5000Beta\Project Outputs for Frost5000Beta\Generates pick and
 ========================================================================================================================
 File Design Information:
 
-Date:       16/07/20
-Time:       02:24
-Revision:   f21135be445d25dc0152825b8268f4a8ff4e287b
+Date:       28/07/20
+Time:       15:36
+Revision:   7f2d208249d56ca86b0b79b28752748f162e033c
 Variant:    No variations
 Units used: mil
 
 Designator Comment                Layer       Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                         
+Rd1        1K                     BottomLayer RES_0603                        1814.961      384.998       180      "Resistor SMD"                                      
 Ce6        4.7uF                  TopLayer    CAP_0603                        619.095       736.221       360      "Capac Ceramic SMD 0603"                            
 Y          ABM8-26MHz             TopLayer    ABM8-26_OSCSC320X250X100N       837.598       86.614        90       "26MHz ±10ppm Crystal 10pF 50 Ohms 4-SMD, No Lead" 
 U7         LM1117LD-3.3/NOPB      TopLayer    LM1117-3.3-WSON-8               1803.150      472.441       270      "LDO Regulator Pos 3.3V 0.8A Texas - WSON8"         
@@ -33,8 +34,8 @@ Rq2b       1K                     BottomLayer RES_0603                        10
 Rq1b       1K                     BottomLayer RES_0603                        1442.913      464.567       180      "Resistor SMD"                                      
 Rp2        10K                    TopLayer    RES_0603                        1545.276      351.969       90       "Resistor SMD"                                      
 Rp1        10K                    TopLayer    RES_0603                        1660.433      398.778       180      "Resistor SMD"                                      
-Rf2        100K                   TopLayer    RES_0603                        1376.968      414.370       360      "Resistor SMD"                                      
-Rf1        732K                   TopLayer    RES_0603                        1396.653      500.018       90       "Resistor SMD"                                      
+Rf2        100K                   TopLayer    RES_0603                        1375.984      426.181       360      "Resistor SMD"                                      
+Rf1        732K                   TopLayer    RES_0603                        1400.591      508.800       90       "Resistor SMD"                                      
 Re5        10K                    TopLayer    RES_0603                        228.346       534.431       360      "Resistor SMD"                                      
 Re4        10K                    TopLayer    RES_0603                        258.465       480.279       360      "Resistor SMD"                                      
 Re3        2.2K                   TopLayer    RES_0603                        302.165       765.748       180      "Resistor SMD"                                      
