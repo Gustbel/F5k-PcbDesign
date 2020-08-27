@@ -2,6 +2,17 @@
 FileName = Frost5000Beta_PCB.GBR
 AutoAperture = True
 *************************************************************
+Generating : Board Outline
+      File : Frost5000Beta_PCB.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D137
+*************************************************************
+
+*************************************************************
 Generating : Bottom Overlay
       File : Frost5000Beta_PCB.GBO
 
@@ -15,6 +26,108 @@ Used DCodes :
     D21
     D22
     D31
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Frost5000Beta_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Frost5000Beta_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D80
+    D81
+    D83
+    D84
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D133
+    D134
+    D135
+    D136
 *************************************************************
 
 *************************************************************
@@ -56,96 +169,6 @@ Used DCodes :
     D58
     D59
     D60
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : Frost5000Beta_PCB.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D135
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Frost5000Beta_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D80
-    D81
-    D83
-    D84
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D132
-    D133
-    D134
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Frost5000Beta_PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D14
-    D52
-    D53
-    D55
-    D56
-    D105
-    D106
-    D107
-    D108
-    D109
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
 *************************************************************
 
 *************************************************************
@@ -255,16 +278,17 @@ Used DCodes :
     D53
     D55
     D56
+    D127
     D128
     D129
     D130
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Frost5000Beta_PCB.GTL
+Generating : Bottom Layer
+      File : Frost5000Beta_PCB.GBL
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
@@ -272,40 +296,14 @@ Generating : Top Layer
 Used DCodes :
     D10
     D14
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
     D52
     D53
-    D54
     D55
     D56
-    D57
-    D58
-    D59
-    D60
-    D104
     D105
     D106
     D107
     D108
-    D109
-    D110
     D111
     D112
     D113
@@ -323,5 +321,10 @@ Used DCodes :
     D125
     D126
     D127
+    D128
+    D129
+    D130
+    D131
+    D132
 *************************************************************
 
