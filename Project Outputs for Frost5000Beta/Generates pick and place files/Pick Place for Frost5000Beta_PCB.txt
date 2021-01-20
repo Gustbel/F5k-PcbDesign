@@ -4,13 +4,14 @@ C:\Users\User\Documents\BoxSynergy\Repositorios\frost5000betaV2\Project Outputs 
 ========================================================================================================================
 File Design Information:
 
-Date:       24/12/20
-Time:       04:10
-Revision:   ef135fe83788887bc1bfeaf6e70e738659e09030
+Date:       20/01/21
+Time:       16:48
+Revision:   4098b3b39878b2a2be5c7a90da8904e6b0716b32
 Variant:    No variations
 Units used: mil
 
 Designator Comment                Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                         
+U4         MC3419                 TopLayer    MC3419             1686.024      318.096       0        Accelerometer                                       
 Cf_bat1    "22uF 10V"             BottomLayer CAP_1206           163.917       483.661       180      "Capac Ceramic SMD"                                 
 Ce_in2     "100nF 10V"            TopLayer    CAP_0603           482.284       913.386       90       "Capac Ceramic SMD 0603"                            
 Rq3b       1K                     BottomLayer RES_0603           1055.118      465.551       270      "Resistor SMD"                                      
@@ -37,9 +38,8 @@ Ca2        10uF                   BottomLayer CAP_1206           709.645       1
 Ca1        100nF                  BottomLayer CAP_0603           803.305       258.083       360      "Capac Ceramic SMD 0603"                            
 Ru         "0 Ohms"               BottomLayer RES_0603           1171.260      946.850       180      "Resistor SMD"                                      
 U2         "EEPROM 128K"          BottomLayer 24CW128            1636.418      569.882       180      "EEPROM 128K"                                       
-Rd1        1K                     BottomLayer RES_0603           1814.961      384.998       180      "Resistor SMD"                                      
+Rd1        4.7K                   BottomLayer RES_0603           1814.961      384.998       180      "Resistor SMD"                                      
 U6         LM1117LD-3.3/NOPB      TopLayer    LM1117-3.3-WSON-8  1803.150      472.441       270      "LDO Regulator Pos 3.3V 0.8A Texas - WSON8"         
-U4         LSM303AGR              TopLayer    LSM303AGR-LGA12    1686.024      318.469       0        "Accelerometer, Magnetometer"                       
 U3         INA219BIDCNR           TopLayer    INA219B_SOT23      1607.775      510.207       270      "Current Monitor Regulator High-Side 10mA SOT-23-8" 
 RcS        ERJ-6BWFR010V          TopLayer    RES-SHUNT-0805     1633.130      639.833       360      "Shunt 0.01 Ohm 0.5W 1% SMD Resistor"               
 Rq5c       2.74K                  BottomLayer RES_0603           1080.118      342.520       360      "Resistor SMD"                                      
@@ -51,7 +51,7 @@ Rq5b       1K                     BottomLayer RES_0603           1202.165      2
 Rq4b       1K                     BottomLayer RES_0603           816.929       465.551       270      "Resistor SMD"                                      
 Rq2b       1K                     BottomLayer RES_0603           1291.339      465.551       270      "Resistor SMD"                                      
 Rq1b       1K                     BottomLayer RES_0603           1431.102      431.102       180      "Resistor SMD"                                      
-Rp2        10K                    TopLayer    RES_0603           1559.222      298.448       90       "Resistor SMD"                                      
+Rp2        10K                    TopLayer    RES_0603           1557.146      303.374       360      "Resistor SMD"                                      
 Rp1        10K                    TopLayer    RES_0603           1660.433      398.778       180      "Resistor SMD"                                      
 Ra2        5.6K                   BottomLayer RES_0603           582.284       103.532       360      "Resistor SMD"                                      
 Ro2        "90.9K +- 1%"          BottomLayer RES_0603           836.614       351.350       90       "Resistor SMD"                                      
@@ -69,4 +69,4 @@ D_LED1     "LCB TTSD-T2V1-2J8L-Z" BottomLayer LED_PLCC-2         1309.055      6
 Cf2        22uF                   TopLayer    CAP_0603           1832.677      318.667       270      "Capac Ceramic SMD 0603"                            
 Cf1        "22uF 10V"             TopLayer    CAP_0603           1783.395      585.012       360      "Capac Ceramic SMD 0603"                            
 Cf_out     "22uF 10V"             BottomLayer CAP_1210           1019.685      968.504       360      "Capac Ceramic SMD 1210"                            
-Cd1        220nF                  TopLayer    CAP_0603           1767.716      308.071       90       "Capac Ceramic SMD 0603"                            
+Cd1        0.1uF                  TopLayer    CAP_0603           1767.716      308.071       90       "Capac Ceramic SMD 0603"                            

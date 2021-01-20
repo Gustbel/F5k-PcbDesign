@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Frost5000Beta_PCB.PcbDoc   12/24/2020  4:10:45 AM
+NCDrill File Report For: Frost5000Beta_PCB.PcbDoc   1/20/2021  4:49:03 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,7 +9,7 @@ ASCII RectHoles File : Frost5000Beta_PCB-RectHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             126       PTH        0.00inch (0.00mm)
+T1      12mil (0.3mm)                                             Round             125       PTH        0.00inch (0.00mm)
 T2      24mil (0.6mm)                                             Round             6         PTH        0.00inch (0.00mm)
 T3      24mil (0.6mm)                                             Slot              2         PTH        0.00inch (0.00mm)
 T4      28mil (0.7mm)                                             Slot              2         PTH        0.00inch (0.00mm)
@@ -18,6 +18,6 @@ T6      39mil (1mm)                                               Round         
 T7      47mil (1.2mm)                                             Round             5         PTH        0.00inch (0.00mm)
 T8      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              155
+Totals                                                                              154
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,5 +1,5 @@
 Important considerations:
-- Outputs FROM Altium Designer 19
+- Outputs FROM Altium Designer 20
 
 1) Any question, query, error found, or change of any component please consult by sending an e-mail, it will be answered quickly.
 The contact is the Electronic Engineer in charge of the design: Gustavo Belbruno, contact email "electronic@box-synergy.com". All design questions should be addressed to him.
