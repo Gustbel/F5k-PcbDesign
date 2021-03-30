@@ -7,3 +7,5 @@
 *\datasheets
 *.PrjPcbStructure
 *~$*
+*.LOG
+*.htm
