@@ -241,130 +241,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Frost5000Beta\NC Drill Files\Frost5000Beta_PCB-RectHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Frost5000Beta\NC Drill Files\Frost5000Beta_PCB-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Frost5000Beta\NC Drill Files\Frost5000Beta_PCB-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Frost5000Beta\NC Drill Files\Frost5000Beta_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Frost5000Beta\NC Drill Files\Frost5000Beta_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber Files\Frost5000Beta_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Frost5000Beta\PCB Models 3D\Frost5000Beta_PCB.step
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_Mechanical_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Frost5000Beta\Gerber X2 Files\Frost5000Beta_PCB_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Frost5000Beta\Generates pick and place files\Pick Place for Frost5000Beta_PCB.txt
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -905,6 +781,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
