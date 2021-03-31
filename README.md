@@ -1,17 +1,10 @@
-﻿﻿﻿# Diseño en ALTIUM del PCB del FROST5000 - Versión Beta #
+﻿﻿﻿# Diseño en ALTIUM del PCB del FROST5000 - Versión RTM 1.0 #
 
-![alt tex](images/icon_bitbucket.png)
+![alt tex](images/icon.png)
 
-## Hoja de Ruta:
-1. Creación y configuración del Programa y creación del Repositorio ----  *LISTO  - Miércoles 13/05 (1 día)*
-2. Carga de los Componentes -- *LISTO  - Ver bien fechas*
-3. Carga del Circuito completo en el archivo Schematic -- *LISTO  - Ver bien fechas*
-4. Configuración del Archivo PCB (Capas, Tamaño de pistas, Clearances, etc). -- *LISTO  - Ver bien fechas*
-5. Ruteado de la Placa.	-- *LISTO  - Ver bien fecha inicio - 06/07*
-6. Testeos y Checks varios. **En Proceso** - Martes 7/07  
-7. Generación de archivos BOM para mandar a fabricar
+## Frost5000 PCB 3D - Versión RTM 1.0 
 
-![alt tex](images/PCBFinal_F5k_ConAntenaCeramica.jpg)
+![alt tex](images/PCB.png)
 
 ## ¿Para que es este repositorio? 
 
