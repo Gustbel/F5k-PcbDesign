@@ -1,0 +1,74 @@
+Altium Designer Pick and Place Locations
+C:\Users\User\Documents\BoxSynergy\Repositorios\Frost5000_RTM\Project Outputs for Frost5000\Generates pick and place files\Pick Place for Frost5000_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/03/21
+Time:       23:18
+Revision:   fa704db660af1baf95ea7b60b97aa84c45b55ec3
+Variant:    No variations
+Units used: mil
+
+Designator Comment                Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                         
+Cu2        "10uF 10V"             BottomLayer CAP_1206           1024.970      1053.543      360      "Capac Ceramic SMD"                                 
+Cu1        "10uF 10V"             BottomLayer CAP_1206           1024.970      964.567       360      "Capac Ceramic SMD"                                 
+Rpb1       5.6K                   BottomLayer RES_0603           446.598       244.187       270      "Resistor SMD"                                      
+U4         MC3419                 TopLayer    MC3419             1686.024      318.096       0        Accelerometer                                       
+Cf_bat1    "22uF 10V"             BottomLayer CAP_1206           163.917       483.661       180      "Capac Ceramic SMD"                                 
+Ce_in2     "100nF 10V"            TopLayer    CAP_0603           482.284       913.386       90       "Capac Ceramic SMD 0603"                            
+Rq3b       1K                     BottomLayer RES_0603           1055.118      465.551       270      "Resistor SMD"                                      
+PB1        "Push Button"          TopLayer    800C_SWITCH        442.681       371.654       270      "Push Button 800C"                                  
+De1        "Zener 6.5V / 0.5W"    TopLayer    ZENER-SOD323F      425.197       917.323       90       "Zener 6.5V / 0.5W"                                 
+U5         FM5324G                TopLayer    SOP8               435.039       661.417       360      "Power Battery Management IC"                       
+U1         ESP-07                 TopLayer    ESP-07             973.425       350.394       270      "ESP07 Module with Antenna Ai-Thinker"              
+Rf_in1     "0 Ohms"               BottomLayer RES_0603           630.905       1118.110      180      "Resistor SMD"                                      
+Re1        5.6K                   TopLayer    RES_0603           252.953       710.630       90       "Resistor SMD"                                      
+Ra3        5.6K                   TopLayer    RES_0603           566.535       83.650        270      "Resistor SMD"                                      
+Ra1        5.6K                   BottomLayer RES_0603           934.055       144.499       360      "Resistor SMD"                                      
+Q5         BC807                  BottomLayer TRANSISTOR_SOT23-3 1095.472      240.087       270      "Transistor PNP"                                    
+Q4         BC807                  BottomLayer TRANSISTOR_SOT23-3 718.701       539.370       180      "Transistor PNP"                                    
+Q3         BC817                  BottomLayer TRANSISTOR_SOT23-3 954.724       539.370       180      "Transistor NPN"                                    
+Q2         BC817                  BottomLayer TRANSISTOR_SOT23-3 1190.945      539.370       180      "Transistor NPN"                                    
+Q1         BC817                  BottomLayer TRANSISTOR_SOT23-3 1427.953      539.370       180      "Transistor NPN"                                    
+L_Ind      "1uH 5A"               TopLayer    Inductor_SRN5040   742.126       814.961       180      Inductor_SRN5040                                    
+Cf_bat2    "100nF 10V"            BottomLayer CAP_0603           319.882       367.126       180      "Capac Ceramic SMD 0603"                            
+Ce_out2    "22uF 10V"             TopLayer    CAP_1206           535.433       812.992       180      "Capac Ceramic SMD"                                 
+Ce_out1    "22uF 10V"             TopLayer    CAP_1210           1554.134      746.895       180      "Capac Ceramic SMD 1210"                            
+Ce_in1     "10uF 10V"             TopLayer    CAP_1206           314.173       809.842       180      "Capac Ceramic SMD"                                 
+Ce_bat     "22uF 10V"             BottomLayer CAP_1206           437.008       484.252       90       "Capac Ceramic SMD"                                 
+Ca2        10uF                   BottomLayer CAP_1206           709.645       183.077       180      "Capac Ceramic SMD"                                 
+Ca1        100nF                  BottomLayer CAP_0603           803.305       258.083       360      "Capac Ceramic SMD 0603"                            
+Ru         "0 Ohms"               BottomLayer RES_0603           1171.260      946.850       180      "Resistor SMD"                                      
+U2         "EEPROM 128K"          BottomLayer 24CW128            1636.418      569.882       180      "EEPROM 128K"                                       
+Rd1        4.7K                   BottomLayer RES_0603           1814.961      384.998       180      "Resistor SMD"                                      
+U6         LM1117LD-3.3/NOPB      TopLayer    LM1117-3.3-WSON-8  1803.150      472.441       270      "LDO Regulator Pos 3.3V 0.8A Texas - WSON8"         
+U3         INA219BIDCNR           TopLayer    INA219B_SOT23      1607.775      510.207       270      "Current Monitor Regulator High-Side 10mA SOT-23-8" 
+RcS        ERJ-6BWFR010V          TopLayer    RES-SHUNT-0805     1633.130      639.833       360      "Shunt 0.01 Ohm 0.5W 1% SMD Resistor"               
+Rq5c       2.74K                  BottomLayer RES_0603           1080.118      342.520       360      "Resistor SMD"                                      
+Rq4c       2.74K                  BottomLayer RES_0603           697.835       721.457       90       "Resistor SMD"                                      
+Rq3c       2.74K                  BottomLayer RES_0603           934.055       720.472       90       "Resistor SMD"                                      
+Rq2c       2.74K                  BottomLayer RES_0603           1171.260      720.472       90       "Resistor SMD"                                      
+Rq1c       2.74K                  BottomLayer RES_0603           1405.512      723.425       90       "Resistor SMD"                                      
+Rq5b       1K                     BottomLayer RES_0603           1202.165      246.085       270      "Resistor SMD"                                      
+Rq4b       1K                     BottomLayer RES_0603           816.929       465.551       270      "Resistor SMD"                                      
+Rq2b       1K                     BottomLayer RES_0603           1291.339      465.551       270      "Resistor SMD"                                      
+Rq1b       1K                     BottomLayer RES_0603           1431.102      431.102       180      "Resistor SMD"                                      
+Rp2        10K                    TopLayer    RES_0603           1557.146      303.374       360      "Resistor SMD"                                      
+Rp1        10K                    TopLayer    RES_0603           1660.433      398.778       180      "Resistor SMD"                                      
+Ra2        5.6K                   BottomLayer RES_0603           582.284       103.532       360      "Resistor SMD"                                      
+Ro2        "90.9K +- 1%"          BottomLayer RES_0603           836.614       351.350       90       "Resistor SMD"                                      
+Ro1        "332K +-1%"            BottomLayer RES_0603           746.457       383.680       360      "Resistor SMD"                                      
+J_USB_A    CQ-USB-AFFS90          TopLayer    USB-A__IPX8        1171.260      946.063       180      "USB-A Socket"                                      
+J_UART     M50-3530442            TopLayer    UART-1.27MM        1589.567      130.512       90       "1.27mm Pin Header 4x1"                             
+J_MICROUSB CQ-MUB-FS8772          TopLayer    MICRO_USB          620.079       1079.232      180      "MicroUSB B-type Socket"                            
+J_Jumper   M50-3530242            TopLayer    JUMPER-1.27_MM     453.740       103.347       180      "1.27mm Pin Header 2x1"                             
+J_Battery  Connx2_Battery         TopLayer    BATTERY            174.760       586.417       180      "NO SOCKET"                                         
+D_LED5     "LCB TTSD-T2V1-2J8L-Z" BottomLayer LED_PLCC-2         954.724       283.465       90       "Blue LED PLCC-2"                                   
+D_LED4     "LCB TTSD-T2V1-2J8L-Z" BottomLayer LED_PLCC-2         600.394       637.795       90       "Blue LED PLCC-2"                                   
+D_LED3     "LCB TTSD-T2V1-2J8L-Z" BottomLayer LED_PLCC-2         836.614       637.795       90       "Blue LED PLCC-2"                                   
+D_LED2     "LCB TTSD-T2V1-2J8L-Z" BottomLayer LED_PLCC-2         1072.835      637.795       90       "Blue LED PLCC-2"                                   
+D_LED1     "LCB TTSD-T2V1-2J8L-Z" BottomLayer LED_PLCC-2         1309.055      637.795       90       "Blue LED PLCC-2"                                   
+Cf2        22uF                   TopLayer    CAP_0603           1832.677      318.667       270      "Capac Ceramic SMD 0603"                            
+Cf1        "22uF 10V"             TopLayer    CAP_0603           1783.395      585.012       360      "Capac Ceramic SMD 0603"                            
+Cd1        0.1uF                  TopLayer    CAP_0603           1767.716      308.071       90       "Capac Ceramic SMD 0603"                            
